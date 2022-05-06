@@ -1,1 +1,12 @@
-
+{
+  "Bug_report":[
+    "Summary",
+    "Project",
+    "Version",
+    "Severity",
+    "Priority",
+    "Description",
+    "Attachment",
+    "Author",
+    "Status"]
+}
